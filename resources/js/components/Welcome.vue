@@ -8,8 +8,7 @@
                         <button class="btn btn-danger" @click="logout">Logout</button>
                     </div>
                     <div class="col-9">
-                        <h4 class="text-center">Welcome to the IO App.</h4>
-                        <p class="text-center">You are logged in as {{currentUser.name}}.</p>
+                        <h3 class="text-center">Welcome to the IO App.</h3>
                     </div>
                 </div>
             </div>
